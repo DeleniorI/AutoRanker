@@ -38,14 +38,6 @@ The addon will scan your action bars and update any lower-rank spells it finds.
 * It does not replace macros.
 * Some players may intentionally use lower-rank spells for mana efficiency or special situations. In that case, you may want to place those spells manually after using `/arank`.
 
-## Slash Command
-
-```text
-/arank
-```
-
-Scans your action bars and updates outdated spell ranks.
-
 ## License
 
 Free to use, modify, and share.
