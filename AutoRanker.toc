@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: AutoRanker
+## Notes: Auto-updates lower spell ranks on your action bars.
+## Author: Beebee aka Magni
+## Version: 0.1
+
+AutoRanker.lua
